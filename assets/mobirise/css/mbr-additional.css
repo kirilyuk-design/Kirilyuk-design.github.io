@@ -9,7 +9,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -608,35 +607,6 @@ section.form .container {
 #social-buttons2-f .mbr-section-title {
   font-size: 32px;
   color: #ffffff;
-}
-#pricing-table2-e .mbr-plan-header,
-#pricing-table2-e .mbr-plan-body {
-  background-color: #f4f4f4;
-}
-#pricing-table2-e ul,
-#pricing-table2-e .mbr-plan-title,
-#pricing-table2-e .mbr-price-value,
-#pricing-table2-e .mbr-price-figure,
-#pricing-table2-e .mbr-price-term {
-  color: #28262b;
-}
-#pricing-table2-e .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-e .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
-}
-#pricing-table2-e .mbr-section__container .mbr-section-subtitle {
-  font-size: 20px;
-}
-#pricing-table2-e UL {
-  font-size: 16px;
-}
-#pricing-table2-e .mbr-plan-title {
-  font-size: 20px;
-}
-#pricing-table2-e .mbr-section__container .mbr-section-subtitle SPAN {
-  font-family: 'Raleway', sans-serif;
 }
 #form1-g .form-control-label {
   color: #232323;
