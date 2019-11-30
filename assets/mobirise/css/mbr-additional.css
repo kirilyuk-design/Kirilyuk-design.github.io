@@ -530,12 +530,14 @@ section.form .container {
 #header4-1 .mbr-section-title {
   color: #000000;
   font-size: 60px;
+  text-align: left;
 }
 #header4-1 .mbr-section-lead {
   color: #000000;
 }
 #header4-1 .mbr-section-lead SPAN {
   font-family: 'Raleway', sans-serif;
+  font-size: 24px;
 }
 #header3-3 .mbr-section-title,
 #header3-3 .mbr-section-subtitle {
@@ -565,6 +567,9 @@ section.form .container {
 #msg-box3-l .lead P {
   font-size: 20px;
 }
+#msg-box3-l .mbr-section-title {
+  font-size: 36px;
+}
 #content2-w BLOCKQUOTE {
   font-size: 20px;
 }
@@ -582,6 +587,9 @@ section.form .container {
 }
 #msg-box3-m .lead P {
   font-size: 20px;
+}
+#msg-box3-m .mbr-section-title {
+  font-size: 36px;
 }
 #content1-o P {
   font-size: 20px;
