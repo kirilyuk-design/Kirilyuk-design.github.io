@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "KODstudio-clone",
+    "name": "настройкаа данных-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -43,7 +43,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-153503725-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-153503725-1');\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-153503725-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-153503725-1');\n</script>\n",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
@@ -51,7 +51,7 @@
       "settings": {
         "main": true,
         "title": "KODdesign",
-        "meta_descr": "",
+        "meta_descr": "Графический дизайнер, иллюстратор, фрилансер. \nСоздаю эффектный и эффективный дизайн\nСтили: 2D, flat, cartoon, doodle",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
